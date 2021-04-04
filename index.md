@@ -5,6 +5,8 @@
 #### **Table of Contents**
 1. [Summary](#summary)
 2. [Skills](#skills)
+
+### **Summary**
 Hello, I am a student from the University of California, San Diego and I am on my 3rd year of my computer science bacehlors of science. I have no main area of interest however I am beginning to take a slight interest in cryptography and computer security.
 
 ### **Skills:**<a name="skills"></a>
