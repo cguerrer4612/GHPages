@@ -3,12 +3,16 @@
 ![](IMG_i5ovb1(resizerd).jpg) 
 
 #### **Table of Contents**
-1. [Summary](#abcd)
-2. 
-Hello, I am a student from the University of California, San Diego and I am on my 3rd year of my computer science bacehlors of science.
+1. [Summary](#summary)
+2. [Skills](#skills)
+Hello, I am a student from the University of California, San Diego and I am on my 3rd year of my computer science bacehlors of science. I have no main area of interest however I am beginning to take a slight interest in cryptography and computer security.
 
-### **Hard SKILS:**
-* 
+### **Skills:**<a name="skills"></a>
+* C++
+* Java
+* HTML
+* CSS
+* SQL
 
 ### **Projects Completed/In Progress**
 * A file compression and decompression algorithm. (Completed)
@@ -19,7 +23,7 @@ Hello, I am a student from the University of California, San Diego and I am on m
 * Getting a job in the internet security field.
 * Developing my own video game and be able to publish it.
 
-### **A Few Random Facts About Me:**<a name="abcd"></a>
+### **A Few Random Facts About Me:**<a name="summary"></a>
 * My favorite programming language is C++.
 * I like to play video games on my time off.
 * My favorite song is 
